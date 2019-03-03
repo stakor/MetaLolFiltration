@@ -1,7 +1,7 @@
 # MetaLolFiltration
 
 ### Blog Post:
-<Coming Soon>
+Coming Soon
 
 ### Creator:
 Chris Stakor
@@ -41,7 +41,7 @@ To extract:
 `core_lol.py -d <input.lol> <output.file>`
 
 ### Example:
-<Coming Soon>
+Coming Soon
 
 ### Q&A:
 
